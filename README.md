@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to disable editing for specific cells in a Syncfusion Blazor DataGrid. The example focuses on applying conditional editing behavior so that selected cells remain read-only while other grid cells continue to participate in normal editing operations. This approach is useful when business rules require only a subset of records or fields to be editable within the same DataGrid.
+This sample demonstrates how to disable editing for specific cells in a Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid). The example focuses on applying conditional editing behavior so that selected cells remain read-only while other grid cells continue to participate in normal editing operations. This approach is useful when business rules require only a subset of records or fields to be editable within the same DataGrid.
 
 ## Key Features
 
